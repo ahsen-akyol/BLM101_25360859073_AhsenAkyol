@@ -55,8 +55,8 @@ def brookshear_decoder():
               
         # Opcode 4 ise: MOVE (Yazmaçlar arası taşıma)
         elif opcode == '4':
-            print(f" {adres[1]} numaralı yazmaçtaki veriyi, "
-             f"{register} numaralı yazmaca kopyala.")
+            print(f" {adres[0]} numaralı yazmaçtaki veriyi, "
+             f"{adres[1]} numaralı yazmaca kopyala.")
               
         # Opcode 5 ise: ADD (İki yazmacı "ikinin tümleyeni" yöntemiyle toplama)
         elif opcode == '5':
@@ -99,4 +99,5 @@ def brookshear_decoder():
             print(f"UYARI: {opcode} numaralı işlem kodu için bir açıklama tanımlanmadı.")
 
 # burada da programı başlatmak için fonksiyonu çağırıyoruz
+
 brookshear_decoder()
