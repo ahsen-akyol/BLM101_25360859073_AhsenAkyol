@@ -5,7 +5,8 @@
 ### Proje Konusu
 - Makine Dili ve Brookshear Mimarisi
 ### Youtube Linki
--
+- https://youtu.be/EhnS2VlZVrc
+- **Not:** Hocam hem teorik konuyu hem de kodun tüm işlevlerini eksiksiz sunabilmek adına süreyi 2 dakika aşmak durumunda kaldım,anlayışınız için teşekkür ederim.
 ### Proje Açıklaması
 Bu proje, Brookshear makine dilindeki 4 haneli onaltılık (hexadecimal) kodları analiz eden ve bunların işlemci seviyesinde ne anlama geldiğini açıklayan bir **Instruction Decoder** simülasyonudur.
 
