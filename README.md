@@ -9,7 +9,7 @@
 - **Not:** Hocam hem teorik konuyu hem de kodun tüm işlevlerini eksiksiz sunabilmek adına süreyi 2 dakika aşmak durumunda kaldım,anlayışınız için teşekkür ederim.
 ### Proje Sunumu
 Eğer sunum dosyası GitHub üzerinde görüntülenemiyorsa, lütfen aşağıdaki bağlantıya tıklayarak dosyayı bilgisayarınıza indiriniz:
-📥 [Sunumu İndirmek İçin Tıklayın](Sunum.pdf)
+📥 [Sunumu İndirmek İçin Tıklayın](Sunum.pdf?raw=true)
 
 ### Proje Açıklaması
 Bu proje, Brookshear makine dilindeki 4 haneli onaltılık (hexadecimal) kodları analiz eden ve bunların işlemci seviyesinde ne anlama geldiğini açıklayan bir **Instruction Decoder** simülasyonudur.
