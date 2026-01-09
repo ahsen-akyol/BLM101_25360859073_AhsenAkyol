@@ -7,6 +7,10 @@
 ### Youtube Linki
 - https://youtu.be/EhnS2VlZVrc
 - **Not:** Hocam hem teorik konuyu hem de kodun tüm işlevlerini eksiksiz sunabilmek adına süreyi 2 dakika aşmak durumunda kaldım,anlayışınız için teşekkür ederim.
+  ### Proje Sunumu
+Eğer sunum dosyası GitHub üzerinde görüntülenemiyorsa, lütfen aşağıdaki bağlantıya tıklayarak dosyayı bilgisayarınıza indiriniz:
+📥 [Sunumu İndirmek İçin Tıklayın](Makine Dili ve Brookshear Mimarisi Sunum.pdf)
+
 ### Proje Açıklaması
 Bu proje, Brookshear makine dilindeki 4 haneli onaltılık (hexadecimal) kodları analiz eden ve bunların işlemci seviyesinde ne anlama geldiğini açıklayan bir **Instruction Decoder** simülasyonudur.
 
@@ -28,3 +32,4 @@ Program, kullanıcının girdiği her bir komutu şu üç parçaya ayırarak ana
 - Girilen kodun 4 haneli olup olmadığını ve geçerli HEX karakterleri içerip içermediğini kontrol eder.
 - Eğer komut `C` (HALT) ile başlıyorsa, program gerçek bir işlemci durdurma komutu almış gibi kendini sonlandırır.
 - Diğer tüm durumlar için (ADD, OR, JUMP, LOAD vb.) Appendix C tablosundaki kurallara göre yorumlama yapar.
+  
